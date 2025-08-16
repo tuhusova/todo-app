@@ -4,8 +4,8 @@ A simple and fast todo app built with React and TypeScript. Add tasks,
 mark them as done, and stay focused on what matters. Designed with a clean UI,
 responsive layout, and smooth interactions.
 
-We believe tools should be simple, clear, and helpful — no clutter, no
-distractions, just a neat list that helps you get things done.
+Keep your tasks clear and organized — no clutter, no distractions, just a neat
+list that helps you get things done.
 
 Plan your day and enjoy the satisfaction of checking tasks off.
 
