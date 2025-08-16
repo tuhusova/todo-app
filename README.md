@@ -1,9 +1,32 @@
-# React TypeScript Starter Pack
+# Todo App
 
-To use this template click `Use this template`
+A simple and fast todo app built with React and TypeScript. Add tasks,
+mark them as done, and stay focused on what matters. Designed with a clean UI,
+responsive layout, and smooth interactions.
 
-### Available Scripts
+We believe tools should be simple, clear, and helpful — no clutter, no
+distractions, just a neat list that helps you get things done.
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+Plan your day and enjoy the satisfaction of checking tasks off.
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+[DEMO LINK](https://tuhusova.github.io/todo-app/)
+
+## Technologies Used:
+- HTML5
+- SCSS
+- React
+- TypeScript
+
+## How to set up the project locally:
+  - Clone the repository:
+**git clone**
+  - **cd project-name**
+  - Install dependencies:
+**npm install**
+or
+**yarn install**
+  - Run the project locally:
+**npm start**
+or
+**yarn start**
+
